@@ -1,5 +1,6 @@
 Food-app
-This is a full-stack application were you can order food online. 
+
+This is a full-stack application where you can order food online. 
 It also includes an admin account feature, enabling administrators to add products, manage the product catalog, and view orders placed by customers, along with details such as the order status.
 The application is built using JavaScript and React, with MongoDB as the database.
 ![image](https://github.com/user-attachments/assets/68b7f3bd-15b3-4fb6-8439-667a421024d5)
